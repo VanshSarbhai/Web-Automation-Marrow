@@ -32,7 +32,10 @@ Automated user flow on (https://www.marrow.com):
 ### Step 1: Download & Open Folder
 
 - Download the folder.
-- Open the folder in **Visual Studio Code** or terminal.
+-Create a folder named tests in your project root directory.
+-Inside the tests folder place tests/marrow.test.js.
+-Open the folder in Visual Studio Code
+
 
 ### Step 2: Install Dependencies
 
